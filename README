@@ -1,0 +1,7 @@
+Am facut un fisier in care am pus toate fuunctiile necesare rezolvarii problemei numit functii.c. M-am folosit de o structura
+prin care am definit banda, care are 2 campuri: inceput(reprezinta inceputul listei dublu inlantuite cu santinela) si deget
+(reprezinta pozitia degetului in momentul aceasta). Cu ajutorul degetului, m-am plimbat prin lista si am executat operatiile
+pe care le-am intalnit. 
+Am avut grija la conditiile particulare(la move left am avut grija sa pun pointerul care retine pozitia
+degetului in stiva numai daca operatia a fost executata cu succes).
+Punctajul pe care l-am obtinut pe checkerul local este: 120.
